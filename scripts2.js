@@ -154,4 +154,4 @@ var card2 = new Card('Create kanban boards');
 // ADDING CARDS TO COLUMNS
 todoColumn.addCard(card1);
 doingColumn.addCard(card2);
-}
+});
